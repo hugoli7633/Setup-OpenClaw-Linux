@@ -14,6 +14,7 @@ GCP CE(AWS EC2): 2 vCPU 4GB memory  20GB disk  (推荐memory >= 8GB)
 设置NAT模式共享本地IP 或 设置桥接模式连接本地物理网络(推荐)
 
 有随时ssh访问需求的话推荐使用固定IP或域名 (使用Termius等工具可以手机端进行ssh访问) 
+
 云平台：固定IP 
 家庭网络本地部署：IPv6内网穿透+域名
 
@@ -204,5 +205,6 @@ Skill库ClawHub：
 
 OpenClaw官方文档 中文版：
 <https://docs.openclaw.ai/zh-CN>
+
 
 
